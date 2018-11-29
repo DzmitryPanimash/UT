@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuit" parallel="false">
+    <test name="TriangleTest">
+        <classes>
+            <class name="triangle.CheckTriangleTest"/>
+            <class name="triangle.DetectTriangleTest"/>
+            <class name="triangle.GetSquareTest"/>
+        </classes>
+    </test>
+</suite>
